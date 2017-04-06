@@ -2,7 +2,7 @@
 title: "Reproducible Research: Peer Assessment 1"
 author: "Andrea Fatutta"
 date: "06 april 2017"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
